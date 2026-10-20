@@ -1,4 +1,4 @@
-# CyberForge — Adaptive AI-Driven Banking Fraud Prevention & Hardware Sentinel 
+# CyberForge — Adaptive AI-Driven Banking Fraud Prevention & Hardware Sentinel.
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
